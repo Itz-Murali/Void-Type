@@ -245,7 +245,7 @@ button, a, input { touch-action: manipulation; }
 .dev-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
 .dev-card { position: relative; display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 8px 8px 12px; text-align: center; background: linear-gradient(180deg, rgba(79, 216, 255, .08), transparent); border: 1px solid var(--line); }
 .dev-photo { position: relative; z-index: 0; flex: none; width: 80%; height: clamp(88px, 17vh, 128px); display: grid; place-items: center; overflow: hidden; background: radial-gradient(ellipse at 50% 85%, rgba(79, 216, 255, .16), transparent 68%); }
-.dev-photo img { display: block; width: 50%; height: 50%; object-fit: contain; filter: drop-shadow(0 6px 8px rgba(0, 0, 0, .7)); }
+.dev-photo img { display: block; width: 70%; height: auto; object-fit: contain; filter: drop-shadow(0 6px 8px rgba(0, 0, 0, .7)); }
 .dev-photo span { font: 800 3rem 'Orbitron', var(--sans); color: var(--cyan); }
 .dev-name { font: 600 .78rem/1.25 var(--sans); letter-spacing: .04em; word-break: break-word; }
 .gh { position: relative; z-index: 1; display: inline-flex; align-items: center; gap: 6px; padding: .42rem .6rem; font: 600 .58rem var(--sans); letter-spacing: .1em; text-transform: uppercase; color: #fff; text-decoration: none; background: #0b0f18; border: 1px solid rgba(130, 190, 255, .3); transition: border-color .15s, background .15s; }
