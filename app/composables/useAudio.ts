@@ -39,7 +39,7 @@ function noise(dur: number, vol: number, f0: number, f1: number): void {
   src.stop(t + dur + 0.02)
 }
 
-const MUSIC_URL = 'https://anya-file-host.vercel.app/w9lsys1ir6'
+const MUSIC_URL = 'https://anya-file-host.vercel.app/1793108109220.mp3'
 const MUSIC_VOLUME = 0.18
 let track: HTMLAudioElement | null = null
 let wantMusic = false
