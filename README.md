@@ -218,9 +218,6 @@ You are free to use, fork and modify this project, **as long as you give clear c
 - keep the [LICENSE](LICENSE) file and the copyright notice, and
 - credit both creators in your README and, if the project has a public page or About screen, there as well.
 
-Suggested credit line:
-
-> Based on VOIDTYPE by [Itz-Murali](https://github.com/Itz-Murali) and [Itz-Anya](https://github.com/itz-Anya) · https://github.com/Itz-Murali/Void-Type
 
 See [LICENSE](LICENSE) for the full terms.
 
