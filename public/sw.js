@@ -1,4 +1,4 @@
-const VERSION = 'voidtype-v3'
+const VERSION = 'voidtype-v4'
 const SHELL = `${VERSION}-shell`
 const RUNTIME = `${VERSION}-runtime`
 const PRECACHE = ['/', '/manifest.webmanifest', '/icons/icon-192.png', '/icons/icon-512.png']

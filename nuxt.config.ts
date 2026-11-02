@@ -4,7 +4,8 @@ export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   ssr: false,
   devtools: { enabled: false },
-  css: ['~/assets/main.css'],
+  css: ['~/assets/main.css', '~/assets/site.css'],
+  nitro: { prerender: { routes: ['/about', '/terms', '/license'] } },
   app: {
     head: {
       title: 'VOIDTYPE — 3D typing combat',
