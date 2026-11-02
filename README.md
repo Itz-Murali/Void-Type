@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://files.catbox.moe/po4yde.png" alt="VOIDTYPE" width="520">
 
 <br>
