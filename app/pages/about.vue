@@ -131,7 +131,7 @@ onBeforeUnmount(() => loops.forEach((a) => { try { a.cancel?.() } catch { /* don
           </div>
           <b class="crew-name">{{ d.name }}</b>
           <span class="crew-handle">@{{ d.handle }}</span>
-          <small>Co-creator</small>
+          <small>creator</small>
           <a class="btn" :href="d.github" target="_blank" rel="noopener noreferrer">GitHub profile</a>
         </article>
       </div>
